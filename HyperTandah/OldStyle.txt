@@ -1,0 +1,32 @@
+<style>
+        body{
+            background-color: lawngreen;
+            margin-left: 40%;
+        }
+        div{
+            
+            color: green;
+            margin-right: 50%;
+            
+        }
+        ul{
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+        }
+        li{
+            background-color: red;
+            display: inline-block;
+            margin-right: 20px;
+            
+        }
+       
+        img{
+            block-size: 180px;
+        }
+        h1{
+            background-color: red;
+            margin-right: 15%;
+            
+        }
+    </style>
